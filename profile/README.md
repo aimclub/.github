@@ -4,7 +4,7 @@ AIM is community for AI/ML research enthusiasts. We creating and maintaining a l
 
 AIM unites several research labs: [NSS Lab](https://github.com/ITMO-NSS-team), 
 [Industrial AI Research Lab](https://github.com/Industrial-AI-Research-Lab), 
-[CT Lab](https://github.com/ctlab) and others.
+[CT Lab](https://github.com/ctlab), [LISA](https://github.com/LISA-ITMO) and others.
 
 Also, we maintain scientific open source community [ITMO.OpenSource](https://t.me/itmo_opensource).
 
