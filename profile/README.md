@@ -1,4 +1,4 @@
-<h1 align="center">Hi, this is AIM, ITMO University</h1>
+<h1 align="center">Hi, this is AI Instutute, ITMO University</h1>
 
 AIM is community for AI/ML research enthusiasts. We creating and maintaining a lot of open-source projects.
 
@@ -10,4 +10,4 @@ Also, we maintain scientific open source community [ITMO.OpenSource](https://t.m
 
 Our contacts: aim.club@itmo.ru
 
-Our resources: [site](https://aim.club/) [YouTube](https://www.youtube.com/channel/UC1Vlpu2C--0EMppTe2F6XOg).
+Our resources: [site](https://iai.itmo.ru/)
